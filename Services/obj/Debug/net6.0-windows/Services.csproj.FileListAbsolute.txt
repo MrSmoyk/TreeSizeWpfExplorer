@@ -1,0 +1,36 @@
+C:\Users\MrSmoyk\Documents\TreeSizeWpfExplorer\Services\bin\Debug\net6.0-windows\Services.deps.json
+C:\Users\MrSmoyk\Documents\TreeSizeWpfExplorer\Services\bin\Debug\net6.0-windows\Services.dll
+C:\Users\MrSmoyk\Documents\TreeSizeWpfExplorer\Services\bin\Debug\net6.0-windows\Services.pdb
+C:\Users\MrSmoyk\Documents\TreeSizeWpfExplorer\Services\obj\Debug\net6.0-windows\Services.csproj.AssemblyReference.cache
+C:\Users\MrSmoyk\Documents\TreeSizeWpfExplorer\Services\obj\Debug\net6.0-windows\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrSmoyk\Documents\TreeSizeWpfExplorer\Services\obj\Debug\net6.0-windows\Services.AssemblyInfoInputs.cache
+C:\Users\MrSmoyk\Documents\TreeSizeWpfExplorer\Services\obj\Debug\net6.0-windows\Services.AssemblyInfo.cs
+C:\Users\MrSmoyk\Documents\TreeSizeWpfExplorer\Services\obj\Debug\net6.0-windows\Services.csproj.CoreCompileInputs.cache
+C:\Users\MrSmoyk\Documents\TreeSizeWpfExplorer\Services\obj\Debug\net6.0-windows\Services.dll
+C:\Users\MrSmoyk\Documents\TreeSizeWpfExplorer\Services\obj\Debug\net6.0-windows\refint\Services.dll
+C:\Users\MrSmoyk\Documents\TreeSizeWpfExplorer\Services\obj\Debug\net6.0-windows\Services.pdb
+C:\Users\MrSmoyk\Documents\TreeSizeWpfExplorer\Services\obj\Debug\net6.0-windows\ref\Services.dll
+C:\Users\MrSmoyk\source\repos\task10\TreeSizeWpfExplorer\Services\bin\Debug\net6.0-windows\Services.deps.json
+C:\Users\MrSmoyk\source\repos\task10\TreeSizeWpfExplorer\Services\bin\Debug\net6.0-windows\Services.dll
+C:\Users\MrSmoyk\source\repos\task10\TreeSizeWpfExplorer\Services\bin\Debug\net6.0-windows\Services.pdb
+C:\Users\MrSmoyk\source\repos\task10\TreeSizeWpfExplorer\Services\obj\Debug\net6.0-windows\Services.csproj.AssemblyReference.cache
+C:\Users\MrSmoyk\source\repos\task10\TreeSizeWpfExplorer\Services\obj\Debug\net6.0-windows\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrSmoyk\source\repos\task10\TreeSizeWpfExplorer\Services\obj\Debug\net6.0-windows\Services.AssemblyInfoInputs.cache
+C:\Users\MrSmoyk\source\repos\task10\TreeSizeWpfExplorer\Services\obj\Debug\net6.0-windows\Services.AssemblyInfo.cs
+C:\Users\MrSmoyk\source\repos\task10\TreeSizeWpfExplorer\Services\obj\Debug\net6.0-windows\Services.csproj.CoreCompileInputs.cache
+C:\Users\MrSmoyk\source\repos\task10\TreeSizeWpfExplorer\Services\obj\Debug\net6.0-windows\Services.dll
+C:\Users\MrSmoyk\source\repos\task10\TreeSizeWpfExplorer\Services\obj\Debug\net6.0-windows\refint\Services.dll
+C:\Users\MrSmoyk\source\repos\task10\TreeSizeWpfExplorer\Services\obj\Debug\net6.0-windows\Services.pdb
+C:\Users\MrSmoyk\source\repos\task10\TreeSizeWpfExplorer\Services\obj\Debug\net6.0-windows\ref\Services.dll
+C:\Users\MrSmoyk\Desktop\To githab\TreeSizeWpfExplorer\Services\bin\Debug\net6.0-windows\Services.deps.json
+C:\Users\MrSmoyk\Desktop\To githab\TreeSizeWpfExplorer\Services\bin\Debug\net6.0-windows\Services.dll
+C:\Users\MrSmoyk\Desktop\To githab\TreeSizeWpfExplorer\Services\bin\Debug\net6.0-windows\Services.pdb
+C:\Users\MrSmoyk\Desktop\To githab\TreeSizeWpfExplorer\Services\obj\Debug\net6.0-windows\Services.csproj.AssemblyReference.cache
+C:\Users\MrSmoyk\Desktop\To githab\TreeSizeWpfExplorer\Services\obj\Debug\net6.0-windows\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrSmoyk\Desktop\To githab\TreeSizeWpfExplorer\Services\obj\Debug\net6.0-windows\Services.AssemblyInfoInputs.cache
+C:\Users\MrSmoyk\Desktop\To githab\TreeSizeWpfExplorer\Services\obj\Debug\net6.0-windows\Services.AssemblyInfo.cs
+C:\Users\MrSmoyk\Desktop\To githab\TreeSizeWpfExplorer\Services\obj\Debug\net6.0-windows\Services.csproj.CoreCompileInputs.cache
+C:\Users\MrSmoyk\Desktop\To githab\TreeSizeWpfExplorer\Services\obj\Debug\net6.0-windows\Services.dll
+C:\Users\MrSmoyk\Desktop\To githab\TreeSizeWpfExplorer\Services\obj\Debug\net6.0-windows\refint\Services.dll
+C:\Users\MrSmoyk\Desktop\To githab\TreeSizeWpfExplorer\Services\obj\Debug\net6.0-windows\Services.pdb
+C:\Users\MrSmoyk\Desktop\To githab\TreeSizeWpfExplorer\Services\obj\Debug\net6.0-windows\ref\Services.dll

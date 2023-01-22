@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QCKCYmrj7lrh9jhZuYSWZ+5OgVSheLvBdqSiTKiVkVxycZ/tJn8sQ10xcJI+X4ScXzC+2h0vzxEwx+hyBca/aQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MrSmoyk\\source\\repos\\MyGit\\TreeSizeWpfExplorer\\WpfUI\\WpfUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MrSmoyk\\.nuget\\packages\\extended.wpf.toolkit\\4.4.0\\extended.wpf.toolkit.4.4.0.nupkg.sha512",
+    "C:\\Users\\MrSmoyk\\.nuget\\packages\\microsoft-windowsapicodepack-core\\1.1.4\\microsoft-windowsapicodepack-core.1.1.4.nupkg.sha512",
+    "C:\\Users\\MrSmoyk\\.nuget\\packages\\microsoft-windowsapicodepack-shell\\1.1.4\\microsoft-windowsapicodepack-shell.1.1.4.nupkg.sha512"
+  ],
+  "logs": []
+}

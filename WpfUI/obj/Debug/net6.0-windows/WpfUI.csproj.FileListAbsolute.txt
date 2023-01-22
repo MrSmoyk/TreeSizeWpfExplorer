@@ -1,0 +1,159 @@
+C:\Users\MrSmoyk\Documents\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\WpfUI.csproj.AssemblyReference.cache
+C:\Users\MrSmoyk\Documents\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\View\Header\Header.g.cs
+C:\Users\MrSmoyk\Documents\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\View\Header\Select.g.cs
+C:\Users\MrSmoyk\Documents\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\View\Header\SizeSelection.g.cs
+C:\Users\MrSmoyk\Documents\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\View\Header\Visibility.g.cs
+C:\Users\MrSmoyk\Documents\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\View\MainWindow.g.cs
+C:\Users\MrSmoyk\Documents\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\MrSmoyk\Documents\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\MrSmoyk\Documents\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\WpfUI_MarkupCompile.cache
+C:\Users\MrSmoyk\Documents\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\WpfUI_MarkupCompile.lref
+C:\Users\MrSmoyk\Documents\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\WpfUI.exe
+C:\Users\MrSmoyk\Documents\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\WpfUI.deps.json
+C:\Users\MrSmoyk\Documents\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\WpfUI.runtimeconfig.json
+C:\Users\MrSmoyk\Documents\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\WpfUI.dll
+C:\Users\MrSmoyk\Documents\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\WpfUI.pdb
+C:\Users\MrSmoyk\Documents\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+C:\Users\MrSmoyk\Documents\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+C:\Users\MrSmoyk\Documents\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+C:\Users\MrSmoyk\Documents\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+C:\Users\MrSmoyk\Documents\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+C:\Users\MrSmoyk\Documents\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\Microsoft.WindowsAPICodePack.dll
+C:\Users\MrSmoyk\Documents\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\MrSmoyk\Documents\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\MrSmoyk\Documents\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\MrSmoyk\Documents\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\MrSmoyk\Documents\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\MrSmoyk\Documents\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\MrSmoyk\Documents\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\MrSmoyk\Documents\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\MrSmoyk\Documents\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\MrSmoyk\Documents\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\MrSmoyk\Documents\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\MrSmoyk\Documents\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\MrSmoyk\Documents\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\MrSmoyk\Documents\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\Services.dll
+C:\Users\MrSmoyk\Documents\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\Services.pdb
+C:\Users\MrSmoyk\Documents\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\View\Header\Header.baml
+C:\Users\MrSmoyk\Documents\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\View\Header\Select.baml
+C:\Users\MrSmoyk\Documents\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\View\Header\SizeSelection.baml
+C:\Users\MrSmoyk\Documents\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\View\Header\Visibility.baml
+C:\Users\MrSmoyk\Documents\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\View\MainWindow.baml
+C:\Users\MrSmoyk\Documents\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\WpfUI.g.resources
+C:\Users\MrSmoyk\Documents\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\WpfUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrSmoyk\Documents\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\WpfUI.AssemblyInfoInputs.cache
+C:\Users\MrSmoyk\Documents\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\WpfUI.AssemblyInfo.cs
+C:\Users\MrSmoyk\Documents\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\WpfUI.csproj.CoreCompileInputs.cache
+C:\Users\MrSmoyk\Documents\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\WpfUI.csproj.CopyComplete
+C:\Users\MrSmoyk\Documents\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\WpfUI.dll
+C:\Users\MrSmoyk\Documents\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\refint\WpfUI.dll
+C:\Users\MrSmoyk\Documents\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\WpfUI.pdb
+C:\Users\MrSmoyk\Documents\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\WpfUI.genruntimeconfig.cache
+C:\Users\MrSmoyk\Documents\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\ref\WpfUI.dll
+C:\Users\MrSmoyk\Documents\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\App.baml
+C:\Users\MrSmoyk\source\repos\task10\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\WpfUI.exe
+C:\Users\MrSmoyk\source\repos\task10\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\WpfUI.deps.json
+C:\Users\MrSmoyk\source\repos\task10\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\WpfUI.runtimeconfig.json
+C:\Users\MrSmoyk\source\repos\task10\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\WpfUI.dll
+C:\Users\MrSmoyk\source\repos\task10\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\WpfUI.pdb
+C:\Users\MrSmoyk\source\repos\task10\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+C:\Users\MrSmoyk\source\repos\task10\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+C:\Users\MrSmoyk\source\repos\task10\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+C:\Users\MrSmoyk\source\repos\task10\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+C:\Users\MrSmoyk\source\repos\task10\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+C:\Users\MrSmoyk\source\repos\task10\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\Microsoft.WindowsAPICodePack.dll
+C:\Users\MrSmoyk\source\repos\task10\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\MrSmoyk\source\repos\task10\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\MrSmoyk\source\repos\task10\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\MrSmoyk\source\repos\task10\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\MrSmoyk\source\repos\task10\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\MrSmoyk\source\repos\task10\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\MrSmoyk\source\repos\task10\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\MrSmoyk\source\repos\task10\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\MrSmoyk\source\repos\task10\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\MrSmoyk\source\repos\task10\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\MrSmoyk\source\repos\task10\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\MrSmoyk\source\repos\task10\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\MrSmoyk\source\repos\task10\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\MrSmoyk\source\repos\task10\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\Services.dll
+C:\Users\MrSmoyk\source\repos\task10\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\Services.pdb
+C:\Users\MrSmoyk\source\repos\task10\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\WpfUI.csproj.AssemblyReference.cache
+C:\Users\MrSmoyk\source\repos\task10\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\View\Header\Header.g.cs
+C:\Users\MrSmoyk\source\repos\task10\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\View\Header\Select.g.cs
+C:\Users\MrSmoyk\source\repos\task10\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\View\Header\SizeSelection.g.cs
+C:\Users\MrSmoyk\source\repos\task10\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\View\Header\Visibility.g.cs
+C:\Users\MrSmoyk\source\repos\task10\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\View\MainWindow.g.cs
+C:\Users\MrSmoyk\source\repos\task10\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\MrSmoyk\source\repos\task10\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\MrSmoyk\source\repos\task10\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\WpfUI_MarkupCompile.cache
+C:\Users\MrSmoyk\source\repos\task10\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\WpfUI_MarkupCompile.lref
+C:\Users\MrSmoyk\source\repos\task10\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\App.baml
+C:\Users\MrSmoyk\source\repos\task10\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\View\Header\Header.baml
+C:\Users\MrSmoyk\source\repos\task10\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\View\Header\Select.baml
+C:\Users\MrSmoyk\source\repos\task10\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\View\Header\SizeSelection.baml
+C:\Users\MrSmoyk\source\repos\task10\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\View\Header\Visibility.baml
+C:\Users\MrSmoyk\source\repos\task10\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\View\MainWindow.baml
+C:\Users\MrSmoyk\source\repos\task10\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\WpfUI.g.resources
+C:\Users\MrSmoyk\source\repos\task10\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\WpfUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrSmoyk\source\repos\task10\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\WpfUI.AssemblyInfoInputs.cache
+C:\Users\MrSmoyk\source\repos\task10\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\WpfUI.AssemblyInfo.cs
+C:\Users\MrSmoyk\source\repos\task10\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\WpfUI.csproj.CoreCompileInputs.cache
+C:\Users\MrSmoyk\source\repos\task10\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\WpfUI.csproj.CopyComplete
+C:\Users\MrSmoyk\source\repos\task10\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\WpfUI.dll
+C:\Users\MrSmoyk\source\repos\task10\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\refint\WpfUI.dll
+C:\Users\MrSmoyk\source\repos\task10\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\WpfUI.pdb
+C:\Users\MrSmoyk\source\repos\task10\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\WpfUI.genruntimeconfig.cache
+C:\Users\MrSmoyk\source\repos\task10\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\ref\WpfUI.dll
+C:\Users\MrSmoyk\Desktop\To githab\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\WpfUI.exe
+C:\Users\MrSmoyk\Desktop\To githab\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\WpfUI.deps.json
+C:\Users\MrSmoyk\Desktop\To githab\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\WpfUI.runtimeconfig.json
+C:\Users\MrSmoyk\Desktop\To githab\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\WpfUI.dll
+C:\Users\MrSmoyk\Desktop\To githab\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\WpfUI.pdb
+C:\Users\MrSmoyk\Desktop\To githab\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+C:\Users\MrSmoyk\Desktop\To githab\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+C:\Users\MrSmoyk\Desktop\To githab\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+C:\Users\MrSmoyk\Desktop\To githab\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+C:\Users\MrSmoyk\Desktop\To githab\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+C:\Users\MrSmoyk\Desktop\To githab\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\Microsoft.WindowsAPICodePack.dll
+C:\Users\MrSmoyk\Desktop\To githab\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\MrSmoyk\Desktop\To githab\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\MrSmoyk\Desktop\To githab\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\MrSmoyk\Desktop\To githab\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\MrSmoyk\Desktop\To githab\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\MrSmoyk\Desktop\To githab\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\MrSmoyk\Desktop\To githab\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\MrSmoyk\Desktop\To githab\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\MrSmoyk\Desktop\To githab\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\MrSmoyk\Desktop\To githab\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\MrSmoyk\Desktop\To githab\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\MrSmoyk\Desktop\To githab\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\MrSmoyk\Desktop\To githab\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\MrSmoyk\Desktop\To githab\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\Services.dll
+C:\Users\MrSmoyk\Desktop\To githab\TreeSizeWpfExplorer\WpfUI\bin\Debug\net6.0-windows\Services.pdb
+C:\Users\MrSmoyk\Desktop\To githab\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\WpfUI.csproj.AssemblyReference.cache
+C:\Users\MrSmoyk\Desktop\To githab\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\View\Header\Header.g.cs
+C:\Users\MrSmoyk\Desktop\To githab\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\View\Header\Select.g.cs
+C:\Users\MrSmoyk\Desktop\To githab\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\View\Header\SizeSelection.g.cs
+C:\Users\MrSmoyk\Desktop\To githab\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\View\Header\Visibility.g.cs
+C:\Users\MrSmoyk\Desktop\To githab\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\View\MainWindow.g.cs
+C:\Users\MrSmoyk\Desktop\To githab\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\MrSmoyk\Desktop\To githab\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\MrSmoyk\Desktop\To githab\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\WpfUI_MarkupCompile.cache
+C:\Users\MrSmoyk\Desktop\To githab\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\WpfUI_MarkupCompile.lref
+C:\Users\MrSmoyk\Desktop\To githab\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\App.baml
+C:\Users\MrSmoyk\Desktop\To githab\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\View\Header\Header.baml
+C:\Users\MrSmoyk\Desktop\To githab\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\View\Header\Select.baml
+C:\Users\MrSmoyk\Desktop\To githab\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\View\Header\SizeSelection.baml
+C:\Users\MrSmoyk\Desktop\To githab\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\View\Header\Visibility.baml
+C:\Users\MrSmoyk\Desktop\To githab\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\View\MainWindow.baml
+C:\Users\MrSmoyk\Desktop\To githab\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\WpfUI.g.resources
+C:\Users\MrSmoyk\Desktop\To githab\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\WpfUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrSmoyk\Desktop\To githab\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\WpfUI.AssemblyInfoInputs.cache
+C:\Users\MrSmoyk\Desktop\To githab\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\WpfUI.AssemblyInfo.cs
+C:\Users\MrSmoyk\Desktop\To githab\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\WpfUI.csproj.CoreCompileInputs.cache
+C:\Users\MrSmoyk\Desktop\To githab\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\WpfUI.csproj.CopyComplete
+C:\Users\MrSmoyk\Desktop\To githab\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\WpfUI.dll
+C:\Users\MrSmoyk\Desktop\To githab\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\refint\WpfUI.dll
+C:\Users\MrSmoyk\Desktop\To githab\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\WpfUI.pdb
+C:\Users\MrSmoyk\Desktop\To githab\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\WpfUI.genruntimeconfig.cache
+C:\Users\MrSmoyk\Desktop\To githab\TreeSizeWpfExplorer\WpfUI\obj\Debug\net6.0-windows\ref\WpfUI.dll
